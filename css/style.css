@@ -121,8 +121,12 @@ header {
 	clear: both;
 }
 
-.namepic{
-	text-size: 30px;
+#namepic{
+	font-size: 100px;
+	text-align: center;
+	padding-top: 80px;
+	color: yellow;
+
 }
 
 .feature {
