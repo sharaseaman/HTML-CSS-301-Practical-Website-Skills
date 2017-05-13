@@ -116,9 +116,13 @@ header {
 
 /* Section: Banner + Feature */
 .banner {
-	background: url("../images/banner.jpg") no-repeat scroll top center / cover;
-	min-height: 250px;
+	background: url("../images/SLObeach.jpg") no-repeat scroll top center / cover;
+	min-height: 550px;
 	clear: both;
+}
+
+.namepic{
+	text-size: 30px;
 }
 
 .feature {
